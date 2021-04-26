@@ -31,6 +31,7 @@ public class Columna_Creator : MonoBehaviour
         }
        
         StartCoroutine("CorrutinaColumna");
+       
 
          
     }
@@ -57,5 +58,7 @@ public class Columna_Creator : MonoBehaviour
             yield return new WaitForSeconds(2f);
         }
     }
+
+    
 }
 

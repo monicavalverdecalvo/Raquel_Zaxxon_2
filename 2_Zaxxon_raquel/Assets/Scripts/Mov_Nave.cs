@@ -19,7 +19,7 @@ public class Mov_Nave : MonoBehaviour
     void Start()
     {
         
-        moveSpeed = 7f;
+        moveSpeed = 9f;
     }
 
     // Update is called once per frame
